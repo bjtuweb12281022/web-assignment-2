@@ -1,0 +1,197 @@
+@CHARSET "UTF-8";
+html{
+	color:#000;
+}
+body, button, input, select, textarea{
+	font-size:12px;
+	font-family: arial,宋体,sans-serif;
+}
+body{
+	text-align:center;
+	cursor:default;
+}
+div{
+	display:block;
+}
+#wrapper{
+	display:block;
+}
+#m{
+	width:680px;
+	margin-top:0px;
+	margin-right:auto;
+	margin-bottom:0px;
+	margin-left:auto;
+}
+.s-skin-user #m{
+	margin-top:25px;
+}
+img{
+	border-top-width: 0px;
+}
+.s-skin-user #lg {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+}
+#nv{
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:5px;
+	margin-left:0px;
+	padding-top:2px;
+	padding-bottom: 0px;
+	padding-left:0px;
+	padding-right:0px;
+	text-align:left;
+	text-indent:72px;
+}
+#nv a{
+	color:#00C;
+}
+#nv a, #tb_mr b{
+	text-decoration:underline;
+}
+#nv a,#nv b{
+	margin-left:12px;
+}
+#nv a,#nv b,.btn,#lk{
+	font-size:14px;
+}
+a:-webkit-any-link {
+	cursor: auto;
+}
+form{
+	display:block;
+}
+body, form, #s_fm{
+	position:relative;
+}
+#opo{
+	margin-left:auto;
+	margin-right:auto;
+}
+#s_fm{
+	width:720px;
+	text-align:left;
+	padding-left:61px;
+	z-index:300;
+	height:35px;
+}
+.s-skin-user #s_lm {
+	height: 42px;
+	position: relative;
+}
+#s_lm{
+	font-size:1px;
+}
+a{
+	cursor:auto;
+}
+p{
+	display:block;
+	-webkit-margin-before:1em;
+	-webkit-margin-after:1em;
+	-webkit-margin-start:0px;
+	-webkit-margin-end:0px;
+}
+#kw1,.btn_wr{
+	margin-top: 0px;
+	margin-right: 3px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#kw1, .btn, .btn_wr, #mCon1{
+	background:url(http://su.bdimg.com/static/superpage/img/spis.png?v=md5) no-repeat #fff;
+}
+#kw1{
+	width:529px;
+	height:32px;
+	padding-top:4px;
+	padding-right:7px;
+	font-family:arial;
+	font-size:16px;
+	border-top-color: rgb(154, 154, 154);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: rgb(205, 205, 205);
+	border-bottom-color: rgb(205, 205, 205);
+	border-left-color: rgb(154, 154, 154);
+	vertical-align: top;
+	outline-style: none;
+}
+.btn_wr{
+	background-position:-202px -33px;
+	width:97px;
+	height:34px;
+	display:inline-block;
+}
+.btn{
+	width:95px;
+	height:32px;
+	padding:0;
+	border:0;
+	background-color:#ddd;
+	cursor:pointer;
+	background-position:0 -35px;
+}
+strong,b{
+	font-weight:bold;
+}
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td{
+	margin:0;
+	padding:0;
+}
+#u_sp{
+	color:#999;
+	padding:4px 10px 5px 0;
+	text-align:right;
+}
+.s-weather-border{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(240, 240, 240);
+}
+#u_sp a{
+	color:#00c;
+	text-decoration:underline;
+	margin:0 5px;
+}
+ul li{
+	float:left;
+	width:160px;
+	font-style:normal;
+	text-decoration:none;
+	height: 20px;
+	margin: 4px 8px 3px 0;
+	position: relative;
+	vertical-align: middle;
+	width: 146px;
+	padding: 1px;
+}
+a{
+	text-decoration:none;
+}
+em{
+	color: #0360AF;
+	display: inline-block;
+	font-size: 14px;
+	height: 18px;
+	line-height: 18px;
+	text-align: left;
+	padding-left: 3px;
+	max-width: 113px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	text-decoration: none;
+	font-style:normal;
+}
+.user-name-top{
+	cursor:pointer;
+	line-height:20px;
+	font-weight:bold;
+	padding-right:11px;
+	background: url(http://su.bdimg.com/static/superpage/img/spis.png?v=md5) no-repeat right -221px;
+}
